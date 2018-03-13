@@ -1,0 +1,1 @@
+<?php include("../dbconfig/db_conn.php"); ?

@@ -1,0 +1,25 @@
+<style type="text/css">
+    tr#maintr{
+      /*background-color: #4CAF50;*/
+      color: white;
+      background-color: #024E81;
+    }
+
+    td#maintd{
+      border: 0.2px solid #dddddd;
+      text-align: center;
+      padding: 5px;
+
+    }
+
+    tr#datatr:nth-child(even){
+     background-color: #B9CEDC;
+    }
+
+    td#datatd{
+      border: 0.2px solid #dddddd;
+      text-align: left;
+      padding: 6px;
+    }
+
+</style>
